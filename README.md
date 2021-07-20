@@ -8,10 +8,10 @@
 <p>
   <em>
     Software Enginner at <a href="https://melhorenvio.com.br/">Melhor Envio</a>
-    <img src="/.github/chika.png" width="35">
+    <img src="/.github/chika.png" width="45">
     </br>
     Computer engineer student at <a href="https://portal.ufpel.edu.br/en/">UFPEL</a>
-    <img src="/.github/sayori.png" width="35"> 
+    <img src="/.github/sayori.png" width="45"> 
   </em>
 </p>
 
