@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    Software Enginner at <a href="https://melhorenvio.com.br/">Melhor Envio</a>
+    Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
     <img src="/.github/chika.png" width="45">
     </br>
     Computer engineer student at <a href="https://portal.ufpel.edu.br/en/">UFPEL</a>
