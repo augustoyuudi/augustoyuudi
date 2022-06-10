@@ -9,14 +9,11 @@
   <em>
     Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
     <img src="/.github/chika.png" width="45">
-    </br>
-    Computer engineer student at <a href="https://portal.ufpel.edu.br/en/">UFPEL</a>
-    <img src="/.github/sayori.png" width="45"> 
   </em>
 </p>
 
-[![Linkedin: augustoyuudi](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn)](https://www.linkedin.com/in/augustoyuudi/)
-[![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi)
+<!-- [![Linkedin: augustoyuudi](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn)](https://www.linkedin.com/in/augustoyuudi/) -->
+<!-- [![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi) -->
  
 
 <img src="/.github/javascript.svg" width="30"> <img src="/.github/vuedotjs.svg" width="30">
@@ -30,7 +27,7 @@
 <img src="/.github/express.svg" width="30">
 
 ```javascript
-console.log("stay awesome 😝");
+console.log("Never give up!");
 ```
 
 <!--
