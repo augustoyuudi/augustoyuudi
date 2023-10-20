@@ -7,23 +7,18 @@
 
 <p>
   <em>
-    Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
+    Currently working as a Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
     <img src="/.github/chika.png" width="45">
   </em>
 </p>
 
 <!-- [![Linkedin: augustoyuudi](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn)](https://www.linkedin.com/in/augustoyuudi/) -->
 <!-- [![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi) -->
- 
 
-<img src="/.github/javascript.svg" width="30"> <img src="/.github/vuedotjs.svg" width="30">
-<img src="/.github/html5.svg" width="30">
-<img src="/.github/css3.svg" width="30">
-<br /><br />
+
 <img src="/.github/typescript.svg" width="30">
+<img src="/.github/vuedotjs.svg" width="30">
 <img src="/.github/nodedotjs.svg" width="30">
-<img src="/.github/react.svg" width="30">
-<img src="/.github/jest.svg" width="30">
 <img src="/.github/express.svg" width="30">
 
 ```javascript
