@@ -7,10 +7,11 @@
 
 <p>
   <em>
-    Currently working as a Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
+    Software Enginner at <a href="https://www.deliverymuch.com.br/">Delivery Much</a>
     <img src="/.github/chika.png" width="45">
   </em>
 </p>
+<p>Building <a href="https://potaku.netlify.app/">Potaku</a>. Entertainment website for otakus.</p>
 
 <!-- [![Linkedin: augustoyuudi](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn)](https://www.linkedin.com/in/augustoyuudi/) -->
 <!-- [![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi) -->
