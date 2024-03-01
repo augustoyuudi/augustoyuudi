@@ -17,7 +17,7 @@
 <!-- [![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi) -->
 
 
-<img src="/.github/typescript.svg" width="30">&ensp;<img src="/.github/nodedotjs.svg" width="30">&ensp;<img src="/.github/vuedotjs.svg" width="30">
+<img src="/.github/typescript.svg" width="30">&ensp;<img src="/.github/nodedotjs.svg" width="30">&ensp;<img src="/.github/vuedotjs.svg" width="30">&ensp;<img src="/.github/react.svg" width="30">
 
 ```javascript
 console.log("Never give up!");
