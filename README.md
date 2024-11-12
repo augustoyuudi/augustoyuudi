@@ -11,7 +11,7 @@
     <img src="/.github/chika.png" width="45">
   </em>
 </p>
-<p>Building <a href="https://potaku-client.onrender.com/">Potaku</a>. Entertainment website for otakus.</p>
+<p>Building <a href="https://whizr.app/">Whizr</a>. Discover nearby events!</p>
 
 <!-- [![Linkedin: augustoyuudi](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn)](https://www.linkedin.com/in/augustoyuudi/) -->
 <!-- [![GitHub augustoyuudi](https://img.shields.io/github/followers/augustoyuudi?style=social)](https://github.com/augustoyuudi) -->
